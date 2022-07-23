@@ -1,0 +1,22 @@
+/* *RESET* */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+
+/* *STUDENT* */
+.student {
+    margin-block: 1rem;
+    padding: 1.5rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+.good {
+    background-color: lightgreen;
+}
+.bad {
+    background-color: red;
+}
